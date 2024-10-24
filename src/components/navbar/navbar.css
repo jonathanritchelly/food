@@ -1,0 +1,34 @@
+.navbar {
+    width: 100%;
+    height: 150px;
+    background-image: url('../../assets/bg-navbar.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    position: fixed;
+    top: 0;
+    
+}
+
+.logotipo {
+    max-width: 100px;
+    width: 12%;
+    padding: 10px 10px 10px 20px;
+    cursor: pointer;
+}
+
+.menu {
+    float: right;
+    padding: 10px;
+}
+
+.menu a {
+    color: black;
+    margin-right: 25px;
+}
+
+
+.menu a:hover {
+
+    color: #d24434;
+
+}
