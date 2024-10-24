@@ -1,1 +1,1 @@
-Meu orjeto - Curso JS
+Meu Projeto - Curso jornada JS
